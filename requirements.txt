@@ -1,0 +1,9 @@
+gTTS
+pygame
+Pillow
+cvzone
+numpy
+opencv-python
+pytesseract
+Pillow
+matplotlib
